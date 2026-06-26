@@ -107,7 +107,7 @@ export default function ReadPage() {
         >
           ← Back
         </button>
-        <h1 className="text-xl font-bold text-slate-900">ReadCoach</h1>
+        <h1 className="text-xl font-bold text-slate-900">FluentRead</h1>
       </div>
 
       {/* Browser support warning */}

@@ -2,7 +2,7 @@ import './globals.css';
 import { AppProvider } from '@/lib/store';
 
 export const metadata = {
-  title: 'ReadCoach — AI Reading Feedback',
+  title: 'FluentRead — AI Reading Feedback',
   description:
     'Read any text aloud and get AI-powered feedback on your English pronunciation.',
 };

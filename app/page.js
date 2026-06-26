@@ -104,7 +104,7 @@ export default function Home() {
       {/* Hero */}
       <div className="text-center">
         <h1 className="text-4xl font-bold tracking-tight text-slate-900 sm:text-5xl">
-          ReadCoach
+          FluentRead
         </h1>
         <p className="mx-auto mt-3 max-w-xl text-lg text-slate-600">
           Read any text aloud and get AI feedback on your English pronunciation.
